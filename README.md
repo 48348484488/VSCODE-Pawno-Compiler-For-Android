@@ -1,4 +1,4 @@
-Site
+Web
 http://github.dev/github/dev
 
 Download
